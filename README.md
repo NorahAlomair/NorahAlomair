@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+my+GitHub+Universe+🌌" />
 </h1>
 
-<h3 align="center">Hi, I'm <b>Noura</b> 👋</h3>
+<h3 align="center">Hi, I'm <b>Norah</b> 👋</h3>
 <h4 align="center">Data Analytics & Python Enthusiast</h4>
 
 <br/>
@@ -14,14 +14,11 @@
 
     
  📫 Reach me: &nbsp;
- <a href="mailto:your.email@example.com">
+ <a href="mailto:Nouraaloamir321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
  </a>
- <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+ <a href="www.linkedin.com/in/norah-alomair-6a0846210" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
  </a>
 </div>
 
