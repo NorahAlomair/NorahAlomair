@@ -3,15 +3,15 @@
 </h1>
 
 <h3 align="center">Hi, I'm <b>Noura</b> 👋</h3>
-<h4 align="center">Data Analytics & Python Enthusiast | Power BI | SQL | Excel</h4>
+<h4 align="center">Data Analytics & Python Enthusiast</h4>
 
 <br/>
 
 <div align="center">
  🔭 Currently working on <b>Data Analytics & Power BI projects</b><br>
  🌱 Learning <b>Advanced SQL & Data Visualization</b><br>
- 💬 Ask me about <b>Python, SQL, Power BI, Excel</b><br>
- 📫 Reach me: 
+ 💬 Ask me about <b>Python, SQL, Power BI, Excel, MySQL, SQL Server</b><br>
+ 📫 Reach me: &nbsp;
  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
  </a>
@@ -28,7 +28,7 @@
 <h2 align="center">🛠️ Skills & Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,sqlserver,excel,powerbi" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,sqlserver,excel,powerbi,github" />
 </div>
 
 <br/>
@@ -43,6 +43,25 @@
 
 <hr/>
 
+<h2 align="center">🚀 My Projects 🚀</h2>
+<br/>
+
+<div align="center">
+  <h3>1️⃣ Outpatient Clinic Dashboard</h3>
+  📂 <a href="https://github.com/YourGitHubUsername/hospital-dashboard">GitHub Repo</a><br>
+  📝 Interactive Power BI + Python dashboard for hospital clinic data analysis<br><br>
+
+  <h3>2️⃣ Riyadh Metro Data Analysis</h3>
+  📂 <a href="https://github.com/YourGitHubUsername/riyadh-metro-analysis">GitHub Repo</a><br>
+  📝 Python & SQL analytics on Riyadh Metro stations and passenger flows<br><br>
+
+  <h3>3️⃣ Real Estate Analysis in Riyadh</h3>
+  📂 <a href="https://github.com/YourGitHubUsername/riyadh-real-estate">GitHub Repo</a><br>
+  📝 Data analysis of Riyadh real estate properties with Python & SQL<br>
+</div>
+
+<hr/>
+
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align="center">
@@ -50,12 +69,4 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=YourGitHubUsername&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YourGitHubUsername&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
