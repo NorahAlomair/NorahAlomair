@@ -43,7 +43,7 @@
 <div align="center">
   <h3>1️⃣ King Khalid International Airport Flights Data Analysis</h3>
   📂 <a href="https://github.com/NorahAlomair/King-Khalid-International-Airport-Flights-Data-Analysis">GitHub Repo</a><br>
-  📝 Python & SQL analysis on King Khalid International Airport flight data<br><br>
+  📝 Python analysis on King Khalid International Airport flight data<br><br>
 
   <h3>2️⃣ Riyadh Metro Power BI</h3>
   📂 <a href="https://github.com/NorahAlomair/Riyadh-Metro-Power-BI">GitHub Repo</a><br>
@@ -55,11 +55,11 @@
 
   <h3>4️⃣ SQL Real Estate Analysis Riyadh</h3>
   📂 <a href="https://github.com/NorahAlomair/SQL-Real-Estate-Analysis-Riyadh">GitHub Repo</a><br>
-  📝 Data analysis of Riyadh real estate properties using SQL & Python<br><br>
+  📝 Data analysis of Riyadh real estate properties using SQL <br><br>
 
   <h3>5️⃣ Outpatient Clinic Data at King Faisal Specialist Hospital Q1 2025</h3>
   📂 <a href="https://github.com/NorahAlomair/NorahAlomair-outpatient-clinic-data-at-King-Faisal-Specialist-Hospital-Research-Center-Q1-2025">GitHub Repo</a><br>
-  📝 Interactive Power BI + Python dashboard for outpatient clinic data analysis
+  📝 Interactive Power BI dashboard for outpatient clinic data analysis
 </div>
 
 <hr/>
