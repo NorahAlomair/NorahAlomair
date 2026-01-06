@@ -12,7 +12,7 @@
  🌱 Learning <b>Advanced SQL & Data Visualization</b><br>
  💬 Ask me about <b>Python, SQL, Power BI, Excel, MySQL, SQL Server</b><br>
 
-    
+<h2 align="center">📫 Reach me</h2> 
  📫 Reach me: &nbsp;
  <a href="mailto:Nouraaloamir321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
