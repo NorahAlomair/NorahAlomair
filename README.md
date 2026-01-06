@@ -47,15 +47,15 @@ I’m actively exploring opportunities to grow in data analytics and connect wit
   📂 <a href="https://github.com/NorahAlomair/King-Khalid-International-Airport-Flights-Data-Analysis">GitHub Repo</a><br>
   📝 Python analysis on King Khalid International Airport flight data<br><br>
 
-  <h3>2️⃣ Riyadh Metro Power BI</h3>
+  <h3>2️⃣ Riyadh Metro </h3>
   📂 <a href="https://github.com/NorahAlomair/Riyadh-Metro-Power-BI">GitHub Repo</a><br>
   📝 Power BI dashboard & analysis of Riyadh Metro stations and passenger flows<br><br>
 
-  <h3>3️⃣ Saudi Jadarah Job Data 2025 (Power BI)</h3>
+  <h3>3️⃣ Saudi Jadarah Job Data 2025 </h3>
   📂 <a href="https://github.com/NorahAlomair/Power-BI-Saudi-Jadarah-Job-Data-2025">GitHub Repo</a><br>
   📝 Power BI dashboard analyzing Saudi Jadarah job data for 2025<br><br>
 
-  <h3>4️⃣ SQL Real Estate Analysis Riyadh</h3>
+  <h3>4️⃣ Real Estate Analysis Riyadh</h3>
   📂 <a href="https://github.com/NorahAlomair/SQL-Real-Estate-Analysis-Riyadh">GitHub Repo</a><br>
   📝 Data analysis of Riyadh real estate properties using SQL <br><br>
 
