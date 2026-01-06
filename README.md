@@ -8,12 +8,14 @@
 <br/>
 
 <div align="center">
- 🔭 Currently working on <b>Data Analytics & Power BI projects</b><br>
- 🌱 Learning <b>Advanced SQL & Data Visualization</b><br>
- 💬 Ask me about <b>Python, SQL, Power BI, Excel, MySQL, SQL Server</b><br>
+I’m passionate about data analysis and discovering actionable insights.
+Currently, I’m learning Python, SQL, Power BI, Excel, and data visualization techniques to build a strong foundation in analytics.
+
+I enjoy applying my skills through projects and hands-on practice to solve real-world problems.
+I’m actively exploring opportunities to grow in data analytics and connect with professionals in the field.
 
 <h2 align="center">📫 Reach me</h2> 
- 📫 Reach me: &nbsp;
+  &nbsp;
  <a href="mailto:Nouraaloamir321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
  </a>
