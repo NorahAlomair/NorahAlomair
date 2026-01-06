@@ -41,17 +41,25 @@
 <br/>
 
 <div align="center">
-  <h3>1️⃣ Outpatient Clinic Dashboard</h3>
-  📂 <a href="https://github.com/YourGitHubUsername/hospital-dashboard">GitHub Repo</a><br>
-  📝 Interactive Power BI + Python dashboard for hospital clinic data analysis<br><br>
+  <h3>1️⃣ King Khalid International Airport Flights Data Analysis</h3>
+  📂 <a href="https://github.com/NorahAlomair/King-Khalid-International-Airport-Flights-Data-Analysis">GitHub Repo</a><br>
+  📝 Python & SQL analysis on King Khalid International Airport flight data<br><br>
 
-  <h3>2️⃣ Riyadh Metro Data Analysis</h3>
-  📂 <a href="https://github.com/YourGitHubUsername/riyadh-metro-analysis">GitHub Repo</a><br>
-  📝 Python & SQL analytics on Riyadh Metro stations and passenger flows<br><br>
+  <h3>2️⃣ Riyadh Metro Power BI</h3>
+  📂 <a href="https://github.com/NorahAlomair/Riyadh-Metro-Power-BI">GitHub Repo</a><br>
+  📝 Power BI dashboard & analysis of Riyadh Metro stations and passenger flows<br><br>
 
-  <h3>3️⃣ Real Estate Analysis in Riyadh</h3>
-  📂 <a href="https://github.com/YourGitHubUsername/riyadh-real-estate">GitHub Repo</a><br>
-  📝 Data analysis of Riyadh real estate properties with Python & SQL<br>
+  <h3>3️⃣ Saudi Jadarah Job Data 2025 (Power BI)</h3>
+  📂 <a href="https://github.com/NorahAlomair/Power-BI-Saudi-Jadarah-Job-Data-2025">GitHub Repo</a><br>
+  📝 Power BI dashboard analyzing Saudi Jadarah job data for 2025<br><br>
+
+  <h3>4️⃣ SQL Real Estate Analysis Riyadh</h3>
+  📂 <a href="https://github.com/NorahAlomair/SQL-Real-Estate-Analysis-Riyadh">GitHub Repo</a><br>
+  📝 Data analysis of Riyadh real estate properties using SQL & Python<br><br>
+
+  <h3>5️⃣ Outpatient Clinic Data at King Faisal Specialist Hospital Q1 2025</h3>
+  📂 <a href="https://github.com/NorahAlomair/NorahAlomair-outpatient-clinic-data-at-King-Faisal-Specialist-Hospital-Research-Center-Q1-2025">GitHub Repo</a><br>
+  📝 Interactive Power BI + Python dashboard for outpatient clinic data analysis
 </div>
 
 <hr/>
