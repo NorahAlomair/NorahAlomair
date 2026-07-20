@@ -62,6 +62,10 @@ I’m actively exploring opportunities to grow in data analytics and connect wit
   <h3>5️⃣ Outpatient Clinic Data at King Faisal Specialist Hospital Q1 2025</h3>
   📂 <a href="https://github.com/NorahAlomair/NorahAlomair-outpatient-clinic-data-at-King-Faisal-Specialist-Hospital-Research-Center-Q1-2025">GitHub Repo</a><br>
    Interactive Power BI dashboard for outpatient clinic data analysis
+
+   <h3>6️⃣ McDonald's Stock Data Analysis</h3>
+📂 <a href="https://github.com/NorahAlomair/McDonald-s-Stock-Data-Analysis">GitHub Repo</a><br>
+Python analysis and forecasting of McDonald's stock using Prophet for time series prediction<br><br>
 </div>
 
 <hr/>
