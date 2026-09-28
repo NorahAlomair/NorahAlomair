@@ -68,6 +68,12 @@ I’m actively exploring opportunities to grow in data analytics and connect wit
 Python analysis and forecasting of McDonald's stock using Prophet for time series prediction<br><br>
 </div>
 
+   <h3>7️⃣ Graduation Project – EatWise</h3>
+
+📂 <a href="https://github.com/NorahAlomair/-Graduation-Project-EatWise-AI-Powered-Nutrition-App">GitHub Repo</a><br>
+AI-powered mobile application that helps users make healthier food choices through personalized meal recommendations, calorie tracking, grocery product recognition, and health alerts using Artificial Intelligence and Computer Vision.<br><br>
+</div>
+
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
