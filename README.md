@@ -45,36 +45,35 @@ I’m actively exploring opportunities to grow in data analytics and connect wit
 <div align="center">
   <h3>1️⃣ King Khalid International Airport Flights Data Analysis</h3>
   📂 <a href="https://github.com/NorahAlomair/King-Khalid-International-Airport-Flights-Data-Analysis">GitHub Repo</a><br>
-   Python analysis on King Khalid International Airport flight data<br><br>
+  Python analysis on King Khalid International Airport flight data<br><br>
 
   <h3>2️⃣ Riyadh Metro </h3>
   📂 <a href="https://github.com/NorahAlomair/Riyadh-Metro-Power-BI">GitHub Repo</a><br>
-   Power BI dashboard & analysis of Riyadh Metro stations and passenger flows<br><br>
+  Power BI dashboard & analysis of Riyadh Metro stations and passenger flows<br><br>
 
   <h3>3️⃣ Saudi Jadarah Job Data 2025 </h3>
   📂 <a href="https://github.com/NorahAlomair/Power-BI-Saudi-Jadarah-Job-Data-2025">GitHub Repo</a><br>
-   Power BI dashboard analyzing Saudi Jadarah job data for 2025<br><br>
+  Power BI dashboard analyzing Saudi Jadarah job data for 2025<br><br>
 
   <h3>4️⃣ Real Estate Analysis Riyadh</h3>
   📂 <a href="https://github.com/NorahAlomair/SQL-Real-Estate-Analysis-Riyadh">GitHub Repo</a><br>
-   Data analysis of Riyadh real estate properties using SQL <br><br>
+  Data analysis of Riyadh real estate properties using SQL<br><br>
 
   <h3>5️⃣ Outpatient Clinic Data at King Faisal Specialist Hospital Q1 2025</h3>
   📂 <a href="https://github.com/NorahAlomair/NorahAlomair-outpatient-clinic-data-at-King-Faisal-Specialist-Hospital-Research-Center-Q1-2025">GitHub Repo</a><br>
-   Interactive Power BI dashboard for outpatient clinic data analysis
+  Interactive Power BI dashboard for outpatient clinic data analysis<br><br>
 
-   <h3>6️⃣ McDonald's Stock Data Analysis</h3>
-📂 <a href="https://github.com/NorahAlomair/McDonald-s-Stock-Data-Analysis">GitHub Repo</a><br>
-Python analysis and forecasting of McDonald's stock using Prophet for time series prediction<br><br>
-</div>
+  <h3>6️⃣ McDonald's Stock Data Analysis</h3>
+  📂 <a href="https://github.com/NorahAlomair/McDonald-s-Stock-Data-Analysis">GitHub Repo</a><br>
+  Python analysis and forecasting of McDonald's stock using Prophet for time series prediction<br><br>
 
-   <h3>7️⃣ Graduation Project – EatWise</h3>
-
-📂 <a href="https://github.com/NorahAlomair/-Graduation-Project-EatWise-AI-Powered-Nutrition-App">GitHub Repo</a><br>
-AI-powered mobile application that helps users make healthier food choices through personalized meal recommendations, calorie tracking, grocery product recognition, and health alerts using Artificial Intelligence and Computer Vision.<br><br>
+  <h3>7️⃣ Graduation Project – EatWise</h3>
+  📂 <a href="https://github.com/NorahAlomair/-Graduation-Project-EatWise-AI-Powered-Nutrition-App">GitHub Repo</a><br>
+  AI-powered mobile application that helps users make healthier food choices through personalized meal recommendations, calorie tracking, grocery product recognition, and health alerts using Artificial Intelligence and Computer Vision.<br><br>
 </div>
 
 <hr/>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
